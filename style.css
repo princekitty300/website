@@ -46,7 +46,7 @@ main {
   padding: 10px;
   margin: 0 auto;
   border-radius: 5px;
-  font-family: monospace;
+  font-family: sans-serif;
   box-shadow: 2px 2px 0 #000;
   text-align: center;
 }
@@ -70,7 +70,7 @@ main {
   border-left: 2px solid #999;
   padding: 20px;
   box-sizing: border-box;
-  font-family: 'MS Gothic', monospace;
+  font-family: 'MS Gothic', sans-serif;
 }
 
 .right-nav h3 {
